@@ -13,6 +13,8 @@ Bot serverless que permite registrar gastos automáticamente en Google Sheets a 
 
 ## Arquitectura
 
+![Arquitectura](./docs/architecture.png)
+
 El bot está construido con una arquitectura serverless utilizando:
 
 - AWS Lambda para el procesamiento de mensajes
